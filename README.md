@@ -5,7 +5,7 @@ A modern and responsive personal portfolio website built using **Next.js** and *
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-name.vercel.app
+🔗 https://portfolio-website-7pccb5mhs-gayatrisonawane942s-projects.vercel.app/
 
 ---
 

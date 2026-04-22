@@ -1,71 +1,80 @@
-# 🚀 Free Responsive Template
+# 🌐 Personal Portfolio Website
 
-![Free Template Preview](https://khurramshafeeq.vercel.app/og-image.jpg)
-
-A **free, modern, and responsive website template** built using **Next.js** and **Tailwind CSS**. Perfect for personal portfolios, landing pages, and small business websites. This template is production-ready, mobile-friendly, and easy to customize for your needs.
-
----
-
-## 📂 Features
-
-- ⚛️ Built with **Next.js** (React-based framework)
-- 🎨 Styled using **Tailwind CSS**
-- ✅ Fully responsive layout (mobile, tablet, desktop)
-- ⚡ Fast performance and optimized build
-- 🌍 Cross-browser compatibility
-- 💡 SEO-ready and scalable structure
-- 🔧 Easy to customize and extend
+A modern and responsive personal portfolio website built using **Next.js** and **Tailwind CSS**, showcasing my projects, skills, and experience in **DevOps, Cloud (AWS), Web Development, and Machine Learning**.
 
 ---
 
 ## 🚀 Live Demo
-
-Visit the live preview here: [https://khurramshafeeq.vercel.app](https://khurramshafeeq.vercel.app)
+🔗 https://your-name.vercel.app
 
 ---
 
-## 🛠️ Installation & Setup
+## 📌 Features
 
-Follow the steps below to set up and run the project locally:
+- Responsive design (Mobile + Desktop)
+- Smooth scrolling navigation
+- Sections:
+  - Home
+  - About
+  - Education
+  - Skills
+  - Internship Experience
+  - Work Process
+  - Portfolio (Projects)
+  - Certifications
+  - Services
+  - Contact Form
+- Clean UI with modern design
+- Optimized performance using Next.js
 
-### 1. Clone the Repository
+---
 
-Clone this repository to your local machine using Git:
+## 🛠️ Tech Stack
+
+- Frontend: Next.js, React.js
+- Styling: Tailwind CSS
+- Icons: PrimeIcons, Heroicons
+- Deployment: Vercel
+
+---
+
+## 💡 Skills Highlighted
+
+- DevOps: Jenkins, Docker, Kubernetes, Terraform
+- Cloud: AWS (EC2, S3, VPC, IAM, Route 53)
+- Programming: Python, Core Java
+- Web: HTML, CSS
+- Database: MySQL
+- Tools: Git, GitHub, VS Code, Jupyter Notebook
+
+---
+
+## 📂 Projects Included
+
+- CI/CD Pipeline using Jenkins & Docker
+- Restaurant Reservation System (MERN Stack)
+- Notes Making Application (CRUD-based system)
+- Machine Learning based projects
+
+---
+
+## 📸 Screenshots
+
+(Add your project screenshots here)
+
+---
+
+## 📥 Installation & Setup
 
 ```bash
-git clone https://github.com/khurramshafeeq/picto.git
-```
+# Clone the repository
+git clone https://github.com/your-username/portfolio-website.git
 
-### 2. Navigate to the Project Directory
+# Navigate to project
+cd portfolio-website
 
-```bash
-cd your-repo-name
-```
-
-### 3. Install Dependencies
-
-Make sure you have Node.js and npm installed. Then run:
-
-```bash
+# Install dependencies
 npm install
-```
 
-### 4. Start the Development Server
-
-Start the development server with the following command:
-
-```bash
+# Run locally
 npm run dev
-```
-
-The project will be available at: http://localhost:3000
-
-## 📝 License
-
-This project is free to use for both personal and commercial purposes. No attribution required, but it's appreciated.
-
-## 👨‍💻 Author
-
-Designed by [Templatecookie](https://www.figma.com/@templatecookie)
-
-Developed by [Khurram Shafeeq](https://x.com/Khurram_shafeeq)
